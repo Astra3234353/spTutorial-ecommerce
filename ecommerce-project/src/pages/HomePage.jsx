@@ -24,7 +24,7 @@ export function HomePage() {
       <title>Ecommerce Project</title>
 
       <Header 
-        crt={cart}
+        cart={cart}
       />
 
       <div className="home-page">
